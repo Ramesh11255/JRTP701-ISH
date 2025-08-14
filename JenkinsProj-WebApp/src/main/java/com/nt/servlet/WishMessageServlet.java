@@ -18,7 +18,7 @@ protected void doGet(HttpServletRequest req, HttpServletResponse res) throws Ser
 	
 	PrintWriter pw=res.getWriter();
 	
-	pw.println("<h1 style='color:red;text-align:center'> Good Morning </h1>");
+	pw.println("<h1 style='color:red;text-align:center'>Hello Ramesh, Good Morning </h1>");
 	
 	pw.println("<br><br><a href='index.jsp'>Home</a>");
 	
