@@ -20,7 +20,7 @@ protected void doGet(HttpServletRequest req, HttpServletResponse res) throws Ser
 	
 	pw.println("<h1 style='color:red;text-align:center'>Hello Ramesh, Good Morning </h1>");
 	
-	pw.println("<br><br><a href='index.jsp'>Home</a>");
+	pw.println("<br><br><a href='index.jsp'>Home ramesh</a>");
 	
 	pw.close();
 }
